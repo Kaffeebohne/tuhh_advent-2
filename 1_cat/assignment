@@ -1,0 +1,2 @@
+We take a soft start in our Advent(2), and today's task is to write a simple version of the program cat(1). cat takes N
+file names as command-line arguments, concatenates their contents, and writes the result to its standard output.
